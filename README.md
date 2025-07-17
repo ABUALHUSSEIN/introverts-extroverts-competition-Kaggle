@@ -1,1 +1,1 @@
-# introverts-extroverts-competition-Kaggle
+# Predict the Introverts from the Extroverts
