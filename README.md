@@ -48,8 +48,7 @@ Feature importance highlights key behavioral traits linked to introversion and e
 
 CatBoost handles categorical features natively, which boosts model efficiency and accuracy.
 
-📈 Example Output (if any):
-Add charts or screenshots here, such as confusion matrix or feature importance plots.
+
 
 🔧 How to Use
 Clone the repo and run the notebook:
