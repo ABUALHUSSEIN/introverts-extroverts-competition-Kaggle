@@ -48,7 +48,7 @@ Feature importance highlights key behavioral traits linked to introversion and e
 
 CatBoost handles categorical features natively, which boosts model efficiency and accuracy.
 
-
+![feature-importance](https://raw.githubusercontent.com/ABUALHUSSEIN/introverts-extroverts-competition-Kaggle/refs/heads/main/feature-importance.png)
 
 🔧 How to Use
 Clone the repo and run the notebook:
