@@ -1,5 +1,6 @@
 # 🧠 CatBoost Classifier: Introvert vs Extrovert Prediction
 This project demonstrates the use of the CatBoost machine learning algorithm to classify personality types — distinguishing between Introverts and Extroverts — based on behavioral and psychological data.
+![Introvert vs Extrovert](https://raw.githubusercontent.com/ABUALHUSSEIN/introverts-extroverts-competition-Kaggle/refs/heads/main/dataanalystanwa.png)
 
 📁 File
 catboost-model-introvert-vs-extrovert.ipynb: A complete Jupyter Notebook including:
@@ -13,6 +14,7 @@ Feature encoding
 Model training and evaluation
 
 Feature importance visualization
+
 
 🚀 Project Objectives
 Build a robust classification model to identify personality types.
