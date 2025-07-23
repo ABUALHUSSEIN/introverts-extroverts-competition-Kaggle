@@ -55,7 +55,7 @@ Clone the repo and run the notebook:
 bash
 نسخ
 تحرير
-git clone https://github.com/yourusername/introvert-vs-extrovert-catboost.git
+git clone https://github.com/ABUALHUSSEIN/introvert-vs-extrovert-catboost.git
 cd introvert-vs-extrovert-catboost
 jupyter notebook catboost-model-introvert-vs-extrovert.ipynb
 ✅ To Do
@@ -73,5 +73,3 @@ jupyter notebook catboost-model-introvert-vs-extrovert.ipynb
 
 
 
-اطرح سؤالك على ChatGPT
-احصل على المزيد 
