@@ -52,14 +52,6 @@ Add charts or screenshots here, such as confusion matrix or feature importance p
 🔧 How to Use
 Clone the repo and run the notebook:
 
-bash
-نسخ
-تحرير
-git clone https://github.com/ABUALHUSSEIN/introvert-vs-extrovert-catboost.git
-cd introvert-vs-extrovert-catboost
-jupyter notebook catboost-model-introvert-vs-extrovert.ipynb
-✅ To Do
- Try other models like XGBoost, LightGBM
 
 
 
